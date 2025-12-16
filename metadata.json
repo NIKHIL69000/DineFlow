@@ -1,0 +1,7 @@
+{
+  "name": "DineFlow - Modern QR Ordering",
+  "description": "A comprehensive restaurant ordering system enabling seamless customer ordering, kitchen management, and waiter coordination.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
